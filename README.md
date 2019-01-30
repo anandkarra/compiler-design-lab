@@ -1,5 +1,8 @@
 
 # Compiler Design Lab
+
+[![Lab 1](https://img.shields.io/badge/Lab%201-COMPLETED-brightgreen.svg?style=for-the-badge)](https://github.com/anandkarra/compiler-design-lab)
+
 Programs and scripts submitted as part of the Compiler Design Lab for the 8th semester of Mathematics & Computing.
 
 ## Lab 1
