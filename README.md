@@ -25,25 +25,21 @@ Programs and scripts submitted as part of the Compiler Design Lab for the 8th se
 
 **Program 8 :** Write a program to check whether a given Operator is valid or not. Create a symbol table for the same.
 
-**Note:**
+>**Note:**  
+For every input, the program should satisfy the following conditions:  
+>* If the input is invalid - Return error message.  
+>* If input is valid and it is not present in the symbol table - Make a new entry in the symbol table and return the corresponding index value.  
+>* If the input is valid and it is present in the symbol table - Return the corresponding index value. 
 
-For every input, the program should satisfy the following conditions:
-
-* If the input is invalid - Return error message.
-* If input is valid and it is not present in the symbol table - Make a new entry in the symbol table and return the corresponding index value.
-* If the input is valid and it is present in the symbol table - Return the corresponding index value.
-
-## Lab 2
+## Lab 3
 **Program 9 :** Write a program in FLEX to check whether a given Identifier is valid or not. Create a symbol table for the same.
 
 **Program 10 :** Write a program in FLEX to check whether a given Keyword is valid or not. Create a symbol table for the same.
 
 **Program 11 :** Write a program in FLEX to check whether a given Operator is valid or not. Create a symbol table for the same.
 
-**Note:**
-
-For every input, the program should satisfy the following conditions:
-
-* If the input is invalid - Return error message.
-* If input is valid and it is not present in the symbol table - Make a new entry in the symbol table and return the corresponding index value.
-* If the input is valid and it is present in the symbol table - Return the corresponding index value.
+>**Note:**  
+For every input, the program should satisfy the following conditions:  
+>* If the input is invalid - Return error message.  
+>* If input is valid and it is not present in the symbol table - Make a new entry in the symbol table and return the corresponding index value.  
+>* If the input is valid and it is present in the symbol table - Return the corresponding index value.  
