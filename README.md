@@ -1,4 +1,3 @@
-
 # Compiler Design Lab
 
 [![Lab 4](https://img.shields.io/badge/Lab%204-COMPLETED-brightgreen.svg?style=for-the-badge)](https://github.com/anandkarra/compiler-design-lab)
@@ -9,6 +8,24 @@
 
 
 Programs and scripts submitted as part of the Compiler Design Lab for the 8th semester of Mathematics & Computing.
+
+## Lab 5
+**Program 19 :** WAP in C to implement shift-reduce parser for the following grammar:
+
+E-> 2E2
+
+E-> 3E3
+
+E-> 4
+
+**Program 20 :** WAP in C to implement operator precedence parser for the following grammar:
+
+E-> E+E
+
+E-> E*E
+
+E-> id
+
 
 ## Lab 4
 **Program 12 :** Lex Program to count number identifiers, keywords, operators in a file. 
