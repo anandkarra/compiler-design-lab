@@ -1,7 +1,3 @@
-        /* 
-         Karra Anand (15JE001740) and I, Rohit Agarwal (15JE001668) completed this program together with permission from the lab assistant.
-        */
-
 %{
 #include<stdio.h>
 #include<ctype.h>
