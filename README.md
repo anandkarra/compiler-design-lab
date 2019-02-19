@@ -1,5 +1,7 @@
 # Compiler Design Lab
 
+[![Lab 6](https://img.shields.io/badge/Lab%206-COMPLETED-brightgreen.svg?style=for-the-badge)](https://github.com/anandkarra/compiler-design-lab)
+[![Lab 5](https://img.shields.io/badge/Lab%205-COMPLETED-brightgreen.svg?style=for-the-badge)](https://github.com/anandkarra/compiler-design-lab)
 [![Lab 4](https://img.shields.io/badge/Lab%204-COMPLETED-brightgreen.svg?style=for-the-badge)](https://github.com/anandkarra/compiler-design-lab)
 [![Lab 3](https://img.shields.io/badge/Lab%203-COMPLETED-brightgreen.svg?style=for-the-badge)](https://github.com/anandkarra/compiler-design-lab)
 [![Lab 2](https://img.shields.io/badge/Lab%202-COMPLETED-brightgreen.svg?style=for-the-badge)](https://github.com/anandkarra/compiler-design-lab)
